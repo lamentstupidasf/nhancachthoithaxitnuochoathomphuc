@@ -1,1 +1,4 @@
-
+while true do 
+  print("runnin")
+  wait(0.1)
+end
